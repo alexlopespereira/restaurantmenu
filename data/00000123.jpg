@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="google-site-verification" content="3nq0Dgg5wsC39ej23HAOdR94lz780kVSfLhRvS8OBdw" />
+<link rel="apple-touch-icon" href="https://www.premierhotels.co.za/wp-content/themes/premierhotels/apple-touch-icon.png">
+<link rel="icon" href="https://www.premierhotels.co.za/wp-content/themes/premierhotels/favicon.ico" type="image/x-icon">    
+<link rel="shortcut icon" href="https://www.premierhotels.co.za/wp-content/themes/premierhotels/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://www.premierhotels.co.za/wp-content/themes/premierhotels/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://www.premierhotels.co.za/wp-content/themes/premierhotels/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.premierhotels.co.za/wp-content/themes/premierhotels/style.css">
+<script src="https://www.premierhotels.co.za/wp-content/themes/premierhotels/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+<!--[if lt IE 9]>
+	<script src="https://www.premierhotels.co.za/wp-content/themes/premierhotels/js/html5.js"></script>
+	<![endif]-->
+<script>(function(){document.documentElement.className='js'})();</script>
+<title>Premier Hotels &amp; Resorts - South Africa - Hotel Accommodation</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Premier Hotels &amp; Resorts - Authentic Accommodation for Business or Leisure in Cape Town, Durban, Johannesburg, Pretoria, East London, Eastern Cape &amp; Knysna"/>
+<link rel="canonical" href="https://www.premierhotels.co.za/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Premier Hotels &amp; Resorts - South Africa - Hotel Accommodation" />
+<meta property="og:description" content="Premier Hotels &amp; Resorts - Authentic Accommodation for Business or Leisure in Cape Town, Durban, Johannesburg, Pretoria, East London, Eastern Cape &amp; Knysna" />
+<meta property="og:url" content="https://www.premierhotels.co.za/" />
+<meta property="og:site_name" content="Premier Hotels" />
+<meta property="og:image" content="https://www.premierhotels.co.za/wp-content/uploads/2015/03/PH-EL-ICC-Profile-at-night.jpg" />
+<meta property="og:image:secure_url" content="https://www.premierhotels.co.za/wp-content/uploads/2015/03/PH-EL-ICC-Profile-at-night.jpg" />
+<meta property="og:image:width" content="2000" />
+<meta property="og:image:height" content="1300" />
+<meta name="msvalidate.01" content="7A95E5ED756A8BC951264DDA55D4EB43" />
+<meta name="google-site-verification" content="ZjQwvg6dLjQt5ced4Wd64F_0DIxq7MwP4wZ2sCeWxUc" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.premierhotels.co.za/#organization","name":"","url":"https://www.premierhotels.co.za/","sameAs":["https://www.facebook.com/premierhotels/","https://www.instagram.com/premierhotels/","https://za.linkedin.com/company/premier-hotels-&-resorts","https://za.pinterest.com/premierhotelsza","https://twitter.com/Premier_Hotels"]},{"@type":"WebSite","@id":"https://www.premierhotels.co.za/#website","url":"https://www.premierhotels.co.za/","name":"Premier Hotels","publisher":{"@id":"https://www.premierhotels.co.za/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.premierhotels.co.za/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.premierhotels.co.za/#webpage","url":"https://www.premierhotels.co.za/","inLanguage":"en-US","name":"Premier Hotels &amp; Resorts - South Africa - Hotel Accommodation","isPartOf":{"@id":"https://www.premierhotels.co.za/#website"},"about":{"@id":"https://www.premierhotels.co.za/#organization"},"datePublished":"2015-02-11T14:38:49+00:00","dateModified":"2019-04-01T07:26:06+00:00","description":"Premier Hotels & Resorts - Authentic Accommodation for Business or Leisure in Cape Town, Durban, Johannesburg, Pretoria, East London, Eastern Cape & Knysna"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Premier Hotels &raquo; Feed" href="https://www.premierhotels.co.za/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Premier Hotels &raquo; Comments Feed" href="https://www.premierhotels.co.za/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Premier Hotels &raquo; Homepage Comments Feed" href="https://www.premierhotels.co.za/homepage/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.6.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.6.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-18055001-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-18055001-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<link rel='stylesheet' id='apss-font-awesome-css'  href='https://www.premierhotels.co.za/wp-content/plugins/accesspress-social-share/css/font-awesome/font-awesome.min.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='apss-font-opensans-css'  href='//fonts.googleapis.com/css?family=Open+Sans&#038;ver=d70298c7e07f310b3d1f09deaf6c9131' type='text/css' media='all' />
+<link rel='stylesheet' id='apss-frontend-css-css'  href='https://www.premierhotels.co.za/wp-content/plugins/accesspress-social-share/css/frontend.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='https://www.premierhotels.co.za/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.premierhotels.co.za/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='https://www.premierhotels.co.za/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.10.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-image-default-ad2c8d41f7a1-css'  href='https://www.premierhotels.co.za/wp-content/uploads/siteorigin-widgets/sow-image-default-ad2c8d41f7a1.css?ver=d70298c7e07f310b3d1f09deaf6c9131' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-image-default-f24044b87ea4-css'  href='https://www.premierhotels.co.za/wp-content/uploads/siteorigin-widgets/sow-image-default-f24044b87ea4.css?ver=d70298c7e07f310b3d1f09deaf6c9131' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-shortcode-general_foundicons-css'  href='https://www.premierhotels.co.za/wp-content/plugins/buttons-shortcode-and-widget/include/otw_components/otw_shortcode/css/general_foundicons.css?ver=d70298c7e07f310b3d1f09deaf6c9131' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-shortcode-social_foundicons-css'  href='https://www.premierhotels.co.za/wp-content/plugins/buttons-shortcode-and-widget/include/otw_components/otw_shortcode/css/social_foundicons.css?ver=d70298c7e07f310b3d1f09deaf6c9131' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-shortcode-css'  href='https://www.premierhotels.co.za/wp-content/plugins/buttons-shortcode-and-widget/include/otw_components/otw_shortcode/css/otw_shortcode.css?ver=d70298c7e07f310b3d1f09deaf6c9131' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/www.premierhotels.co.za","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.6.0'></script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.premierhotels.co.za/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.premierhotels.co.za/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.premierhotels.co.za/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://www.premierhotels.co.za/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.premierhotels.co.za/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.premierhotels.co.za%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.premierhotels.co.za/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.premierhotels.co.za%2F&#038;format=xml" />
+                                           <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7N93SN');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7N93SN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Hotjar Tracking Code for https://www.premierhotels.co.za -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:215050,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '611599825683533');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=611599825683533&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.premierhotels.co.za/?wordfence_lh=1&hid=49A74C4CB243BDB03B36F1CEE3322DFC');
+</script>                <style type="text/css" media="all"
+                       id="siteorigin-panels-layouts-head">/* Layout 11 */ #pgc-11-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-11 #panel-11-0-0-0 , #pl-11 #panel-11-1-0-0 , #pl-11 #panel-11-1-1-0 , #pl-11 #panel-11-1-2-0 , #pl-11 #panel-11-1-3-0 {  } #pg-11-0 { margin-bottom:10px } #pgc-11-1-0 , #pgc-11-1-1 , #pgc-11-1-2 , #pgc-11-1-3 { width:25%;width:calc(25% - ( 0.75 * 4px ) ) } #pl-11 .so-panel { margin-bottom:30px } #pl-11 .so-panel:last-child { margin-bottom:0px } #pg-11-0.panel-no-style, #pg-11-0.panel-has-style > .panel-row-style , #pg-11-1.panel-no-style, #pg-11-1.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pg-11-1> .panel-row-style { padding:0px 0px 0px 0px } #pgc-11-1-0> .panel-cell-style { background-color:#000000 } #pgc-11-1-0 , #pgc-11-1-1 , #pgc-11-1-2 , #pgc-11-1-3 { align-self:auto } #pgc-11-1-1> .panel-cell-style { background-color:#006979 } #pgc-11-1-2> .panel-cell-style { background-color:#00665f } #pgc-11-1-3> .panel-cell-style { background-color:#a30629 } @media (max-width:780px){ #pg-11-0.panel-no-style, #pg-11-0.panel-has-style > .panel-row-style , #pg-11-1.panel-no-style, #pg-11-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-11-0 > .panel-grid-cell , #pg-11-0 > .panel-row-style > .panel-grid-cell , #pg-11-1 > .panel-grid-cell , #pg-11-1 > .panel-row-style > .panel-grid-cell { width:100%;margin-right:0 } #pgc-11-1-0 , #pgc-11-1-1 , #pgc-11-1-2 { margin-bottom:30px } #pl-11 .panel-grid-cell { padding:0 } #pl-11 .panel-grid .panel-grid-cell-empty { display:none } #pl-11 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>		<style type="text/css" id="wp-custom-css">
+			
+
+
+.dropdown-submenu {
+    position: relative;
+	color: black !important;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+		</style>
+	</head>
+
+<body>
+<!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+<header>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-6 header-location">
+        Guest      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12 text-right social-sharing">
+        <div><a href="https://www.premierhotels.co.za/category/blog/" style="float:right; border: none; padding:4px 5px; margin:0 5px; background-color:#bba169; border-radius:2px; color:#fff; font: bold 11px/17px Helvetica, Arial, sans-serif;
+  white-space: nowrap;display: inline-block;line-height:1"><i class="fa fa-comment" aria-hidden="true" style="line-height:1"></i> Blog</a></div>
+        <div id="fb-root"></div>
+        <div class="fb-share-button" data-href="https://www.premierhotels.co.za/" data-layout="button"  style="float:right; display:block; height:18px; margin-left:5px"></div>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-count="none" style="float:right; border: none"></a> 
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
+        <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> 
+      </div>
+    </div>
+  </div>
+</header>
+<nav class="navbar navbar-inverse">
+  <div class="container"> 
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+            <a class="navbar-brand" href="/"><img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/logo_premier-hotels1.png" alt="Premier Hotels" title="Premier Hotels" ></a> </div>
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="/" >Home</a></li>
+        <li class="dropdown"> 
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="menu" aria-expanded="false">Our Hotels <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li id="menu-our-hotels" class=""><li id="menu-item-5252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5252"><a href="https://www.premierhotels.co.za/hotels/western-cape/">Hotels in the Western Cape<span class="divider"></span></a></li>
+<li id="menu-item-5251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5251"><a href="https://www.premierhotels.co.za/hotels/eastern-cape/">Hotels in the Eastern Cape<span class="divider"></span></a></li>
+<li id="menu-item-5254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5254"><a href="https://www.premierhotels.co.za/hotels/kwazulu-natal/">Hotels in KwaZulu-Natal<span class="divider"></span></a></li>
+<li id="menu-item-5257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5257"><a href="https://www.premierhotels.co.za/hotels/gauteng/">Hotels in Gauteng<span class="divider"></span></a></li>
+<li id="menu-item-5255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5255"><a href="https://www.premierhotels.co.za/hotels/mpumalanga/">Hotels in Mpumalanga<span class="divider"></span></a></li>
+<li id="menu-item-13064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13064"><a href="https://www.premierhotels.co.za/bloemfontein/">Splendid Inn Bloemfontein by Premier<span class="divider"></span></a></li>
+  
+   
+       
+       <li class="dropdown-submenu">
+                <a tabindex="-1" href="#">Resorts</a>
+                <ul class="dropdown-menu">
+                   <li id="menu-resorts" class=""><li id="menu-item-11755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11755"><a href="https://www.premierhotels.co.za/hotels/kwazulu-natal/sani-pass/">Premier Resort Sani Pass (Drakensberg)<span class="divider"></span></a></li>
+<li id="menu-item-11756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11756"><a href="https://www.premierhotels.co.za/hotels/western-cape/knysna/the-moorings/">Premier Resort The Moorings (Knysna)<span class="divider"></span></a></li>
+<li id="menu-item-11757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11757"><a href="https://www.premierhotels.co.za/hotels/kwazulu-natal/premier-resort-cutty-sark/">Premier Resort Cutty Sark (Scottburgh)<span class="divider"></span></a></li>
+<li id="menu-item-11758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11758"><a href="https://www.premierhotels.co.za/hotels/eastern-cape/east-london/mpongo-private-game-reserve/">Premier Resort Mpongo Private Game Reserve<span class="divider"></span></a></li>
+                </ul>
+                      
+       </li>
+       
+              <li class="dropdown">
+              <span class="divider"></span>
+                <a tabindex="-1" href="https://www.premierhotels.co.za/hotels">View All</a>
+              </li>
+       
+       </ul>
+       
+       
+       
+        </li>
+        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">East London ICC <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li id="menu-elicc" class=""><li id="menu-item-5290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5290"><a href="https://www.premierhotels.co.za/el-icc/">Convention Centre<span class="divider"></span></a></li>
+<li id="menu-item-5250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5250"><a href="https://www.premierhotels.co.za/el-icc/events/">EL ICC Events<span class="divider"></span></a></li>
+<li id="menu-item-5248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5248"><a href="https://www.premierhotels.co.za/el-icc/events/event-types/">EL ICC Event Types<span class="divider"></span></a></li>
+<li id="menu-item-5249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5249"><a href="https://www.premierhotels.co.za/el-icc/events/wine-dine/">EL ICC Wine &#038; Dine<span class="divider"></span></a></li>
+<li id="menu-item-5247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5247"><a href="https://www.premierhotels.co.za/el-icc/events/event-enquiries/">EL ICC Event Enquiries<span class="divider"></span></a></li>
+<li id="menu-item-5246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5246"><a href="https://www.premierhotels.co.za/el-icc/events/exhibition-manuals/">EL ICC Exhibition Manuals<span class="divider"></span></a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Conferencing <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li id="menu-conference" class=""><li id="menu-item-5269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5269"><a href="https://www.premierhotels.co.za/conferencing/western-cape/">Conferencing in the Western Cape<span class="divider"></span></a></li>
+<li id="menu-item-5266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5266"><a href="https://www.premierhotels.co.za/conferencing/eastern-cape/">Conferencing in the Eastern Cape<span class="divider"></span></a></li>
+<li id="menu-item-5267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5267"><a href="https://www.premierhotels.co.za/conferencing/gauteng/">Conferencing in Gauteng<span class="divider"></span></a></li>
+<li id="menu-item-5268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5268"><a href="https://www.premierhotels.co.za/conferencing/kwa-zulu-natal/">Conferencing in Kwa-Zulu Natal<span class="divider"></span></a></li>
+<li id="menu-item-5862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5862"><a href="https://www.premierhotels.co.za/conferencing/mpumalanga/">Conferencing in Mpumalanga<span class="divider"></span></a></li>
+<li id="menu-item-5316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5316"><a href="https://www.premierhotels.co.za/conferencing/">View All<span class="divider"></span></a></li>
+          </ul>
+        </li>
+        <li><a href="/premier-kids-club/">Premier Kids Club</a></li>
+        <li><a href="/royalty-club/">Royalty Rewards</a></li>
+        <li><a href="/specials/">Specials</a></li>
+        <li><a href="/contact/">Contact</a></li>
+
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<header id="main-carousel" class="carousel slide carousel-fade">
+  <!-- Indicators -->
+  
+  <ol class="carousel-indicators">
+    <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#main-carousel" data-slide-to="1"></li>
+    <li data-target="#main-carousel" data-slide-to="2"></li>
+  </ol>
+  
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+        <div class="item active">
+            <div class="fill" style="background-image:url('https://www.premierhotels.co.za/wp-content/uploads/2015/03/Executive-Bedroom-15.jpg')"></div>
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+            <div class="shaped">
+              <h2>PREMIER HOTEL OR TAMBO</h2>
+<a href="https://www.premierhotels.co.za/hotels/gauteng/johannesburg/or-tambo-airport/">View More</a>              </div>
+            </div> 
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="item ">
+            <div class="fill" style="background-image:url('https://www.premierhotels.co.za/wp-content/uploads/2015/02/knysna_villa_2000x1068.jpg')"></div>
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+            <div class="shaped">
+              <h2>Premier Resort The Moorings (Knysna)</h2>
+<a href="https://www.premierhotels.co.za/hotels/western-cape/knysna/the-moorings/">View More</a>              </div>
+            </div> 
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="item ">
+            <div class="fill" style="background-image:url('https://www.premierhotels.co.za/wp-content/uploads/2018/01/Premier-Resort-Mpongo-Private-Game-Reserve-3.png')"></div>
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+            <div class="shaped">
+              <h2>Premier Resort Mpongo Private Game Reserve</h2>
+<a href="https://www.premierhotels.co.za/hotels/eastern-cape/east-london/mpongo-private-game-reserve/">View More</a>              </div>
+            </div> 
+          </div>
+        </div>
+      </div>
+    </div>
+      </div>
+  
+  <!-- Controls --> 
+  <a class="left carousel-control" href="#main-carousel" data-slide="prev"> <span class="icon-prev"></span> </a> <a class="right carousel-control" href="#main-carousel" data-slide="next"> <span class="icon-next"></span> </a>
+  </header>
+  <div class="body-wrapper home">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 reservation-title"><i class="fa fa-calendar"></i> Reservation </div>
+      </div>
+    </div>
+    <div class="quick-reserve">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="row">
+          <div class="col-md-4">
+            <label>Choose Location</label>
+            <div class="styled-select">
+
+              
+              <select id="hotelName" name="HotelName"><option value="" selected>Please Select</option><option value="Premier Hotel Cape Town">Premier Hotel Cape Town</option><option value="Premier Hotel EL ICC">Premier Hotel EL ICC</option><option value="Premier Hotel Himeville Arms">Premier Hotel Himeville Arms</option><option value="Premier Hotel Midrand">Premier Hotel Midrand</option><option value="Premier Hotel OR Tambo">Premier Hotel OR Tambo</option><option value="Premier Hotel Pretoria">Premier Hotel Pretoria</option><option value="Premier Hotel Regent">Premier Hotel Regent</option><option value="Premier Hotel The Richards">Premier Hotel The Richards</option><option value="Premier Hotel The Winkler">Premier Hotel The Winkler</option><option value="Premier Resort Cutty Sark">Premier Resort Cutty Sark</option><option value="Premier Resort Mpongo Private Game Reserve">Premier Resort Mpongo Private Game Reserve</option><option value="Premier Resort Sani Pass">Premier Resort Sani Pass</option><option value="Premier Resort The Moorings (Knysna)">Premier Resort The Moorings (Knysna)</option><option value="Splendid Inn Bayshore- Richards Bay">Splendid Inn Bayshore- Richards Bay</option><option value="Splendid Inn King David">Splendid Inn King David</option><option value="Splendid Inn Pinetown">Splendid Inn Pinetown</option><option value="Splendid Inn Port Edward">Splendid Inn Port Edward</option></select>           
+           
+            </div>
+          </div>
+          <div class="col-md-4">
+            <label>Arrival</label>
+            <input type="text" id="dateFrom" name="Arrive" class="form-control" value="21 May 2019">
+          </div>
+          <div class="col-md-4">
+            <label>Departure</label>
+            <input type="text" id="dateTo" name="Depart" class="form-control" value="28 May 2019">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="row">
+          <div class="col-md-4 col-sm-4 col-xs-3">
+            <label>Adults</label>
+            <div class="styled-select">
+              <select id="numberAdults" name="Adults_0" >
+                <option value="1" selected>1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+              </select>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 col-xs-3">
+            <label>Children</label>
+            <div class="styled-select">
+              <select id="numberKids" name="Kids_0">
+                <option value="0" selected>0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+              </select>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 col-xs-6">
+            <input type="hidden" id="kidsAge" name="Age_0" value="18">
+            <button type="submit" id="makeBooking"><i class="fa fa-search"></i> Search</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <div class="content-wrapper home">
+      <div class="container">
+        <div class="row home-intro"> 
+          
+          <!-- Homepage Child Pages Start -->
+          <div class="col-md-2"> </div>
+          <div class="col-md-8 text-center">
+            <h1>Premier Hotels &amp; Resorts</h1>
+            <div class="crest"></div>
+            <div>
+              <div id="pl-11"  class="panel-layout" ><div id="pg-11-0"  class="panel-grid panel-no-style" ><div id="pgc-11-0-0"  class="panel-grid-cell" ><div id="panel-11-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>Welcome to <a href="https://www.premierhotels.co.za/premier-2/"><strong>Premier Hotels &amp; Resorts</strong></a>.</p>
+<p>Find your perfect <strong>business</strong> or <strong>leisure</strong> destination from our properties in the <a href="https://www.premierhotels.co.za/hotels/western-cape/">Western Cape</a>, <a href="https://www.premierhotels.co.za/hotels/eastern-cape/">Eastern Cape</a>, <a href="https://www.premierhotels.co.za/hotels/kwazulu-natal/">KwaZulu-Natal</a>, <a href="https://www.premierhotels.co.za/hotels/mpumalanga/">Mpumalanga</a> and <a href="https://www.premierhotels.co.za/hotels/gauteng/">Gauteng</a>.</p>
+</div>
+</div></div></div></div><div id="pg-11-1"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-11-1" ><div id="pgc-11-1-0"  class="panel-grid-cell" ><div class="panel-cell-style panel-cell-style-for-11-1-0" ><div id="panel-11-1-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="1" ><div class="so-widget-sow-image so-widget-sow-image-default-ad2c8d41f7a1">
+
+<div class="sow-image-container">
+<a href="https://www.premierhotels.co.za/premier-2/" >	<img src="https://www.premierhotels.co.za/wp-content/uploads/2018/02/premiere-671x750.png" width="671" height="750" srcset="https://www.premierhotels.co.za/wp-content/uploads/2018/02/premiere-671x750.png 671w, https://www.premierhotels.co.za/wp-content/uploads/2018/02/premiere-671x750-268x300.png 268w" sizes="(max-width: 671px) 100vw, 671px" title="Premier Hotels" alt="premier_hotels" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div></div><div id="pgc-11-1-1"  class="panel-grid-cell" ><div class="panel-cell-style panel-cell-style-for-11-1-1" ><div id="panel-11-1-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="2" ><div class="so-widget-sow-image so-widget-sow-image-default-f24044b87ea4">
+
+<div class="sow-image-container">
+<a href="https://www.premierhotels.co.za/resorts/" >	<img src="https://www.premierhotels.co.za/wp-content/uploads/2018/02/resort-671x750.png" width="671" height="750" srcset="https://www.premierhotels.co.za/wp-content/uploads/2018/02/resort-671x750.png 671w, https://www.premierhotels.co.za/wp-content/uploads/2018/02/resort-671x750-268x300.png 268w" sizes="(max-width: 671px) 100vw, 671px" title="Premier Resorts" alt="premier_resorts" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div></div><div id="pgc-11-1-2"  class="panel-grid-cell" ><div class="panel-cell-style panel-cell-style-for-11-1-2" ><div id="panel-11-1-2-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="3" ><div class="so-widget-sow-image so-widget-sow-image-default-ad2c8d41f7a1">
+
+<div class="sow-image-container">
+<a href="https://www.premierhotels.co.za/splendid-inns/" >	<img src="https://www.premierhotels.co.za/wp-content/uploads/2018/02/logo_splendid-671x750.png" width="671" height="750" srcset="https://www.premierhotels.co.za/wp-content/uploads/2018/02/logo_splendid-671x750.png 671w, https://www.premierhotels.co.za/wp-content/uploads/2018/02/logo_splendid-671x750-268x300.png 268w" sizes="(max-width: 671px) 100vw, 671px" title="Splendid Inns by Premier" alt="splendid_inns_by_premier" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div></div><div id="pgc-11-1-3"  class="panel-grid-cell" ><div class="panel-cell-style panel-cell-style-for-11-1-3" ><div id="panel-11-1-3-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4" ><div class="so-widget-sow-image so-widget-sow-image-default-ad2c8d41f7a1">
+
+<div class="sow-image-container">
+<a href="https://www.premierhotels.co.za/express-inns/" >	<img src="https://www.premierhotels.co.za/wp-content/uploads/2018/02/express-671x750.png" width="671" height="750" srcset="https://www.premierhotels.co.za/wp-content/uploads/2018/02/express-671x750.png 671w, https://www.premierhotels.co.za/wp-content/uploads/2018/02/express-671x750-268x300.png 268w" sizes="(max-width: 671px) 100vw, 671px" title="Express Inns by Premier" alt="express_inns_by_premier" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div></div></div></div></div>            </div>
+          </div>
+          <div class="col-md-2"> </div>
+        </div>
+        <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+            <h3>Gallery</h3>
+            <div class="devider"></div>
+            <div id="carousel-small" class="carousel slide" data-ride="carousel"> 
+              
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+                                <div class="item active"> <img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/EL-ICC-Profile-at-night-Large-Custom-1.jpg" alt="Premier Hotels Gallery"> </div>
+                                <div class="item "> <img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/ambassador-suite-Custom-1.jpg" alt="Premier Hotels Gallery"> </div>
+                                <div class="item "> <img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/Fine-Dining-Custom-1.jpg" alt="Premier Hotels Gallery"> </div>
+                                <div class="item "> <img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/Pool-area-Custom-1.jpg" alt="Premier Hotels Gallery"> </div>
+                                <div class="item "> <img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/Executive-Bedroom-11-Custom-1.jpg" alt="Premier Hotels Gallery"> </div>
+                                <div class="item "> <img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/ORT-Restaurant-Lounge.jpg" alt="Premier Hotels Gallery"> </div>
+                                <div class="item "> <img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/Gym-2-Custom-1.jpg" alt="Premier Hotels Gallery"> </div>
+                              </div>
+              
+              <!-- Indicators -->
+              <ol class="carousel-indicators">                <li data-target="#carousel-small" class="active" data-slide-to="0"></li>
+                                <li data-target="#carousel-small" class="" data-slide-to="1"></li>
+                                <li data-target="#carousel-small" class="" data-slide-to="2"></li>
+                                <li data-target="#carousel-small" class="" data-slide-to="3"></li>
+                                <li data-target="#carousel-small" class="" data-slide-to="4"></li>
+                                <li data-target="#carousel-small" class="" data-slide-to="5"></li>
+                                <li data-target="#carousel-small" class="" data-slide-to="6"></li>
+                
+              </ol>
+            </div>
+          </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+            <h3>About</h3>
+            <div class="devider"></div>
+            <div> <p style="text-align: left;">From a humble 40 bedrooms, the group’s portfolio has grown to encompass a number of hotels &amp; resorts throughout South Africa and has gained 25 years of experience developing and managing hotels, conference centres and restaurants. Offering almost 2000 bedrooms and employment opportunities to over 1500 passionate members of staff, Premier Hotels &amp; Resorts has a proven, longstanding reputation for delivering superior results.</p>
+<p style="text-align: left;"><a href="https://www.premierhotels.co.za/management-team/" target="_blank" rel="noopener">Meet our Management Team</a></p>
+<p>View our product portfolio <a href="https://doc-0k-8c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/hgoamjlijda2at65bd2i9gnccglsdreb/1538143200000/15020930437332691884/*/1u4ayqB4U8-ECrKRVZ07zDmZ4iQ6_vSBA">here</a></p>
+ </div>
+          </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+            <h3>Recent News</h3>
+            <div class="devider"></div>
+            
+              <div class="row">
+              <div class="col-md-3 col-sm-3 col-xs-3">
+                               <a href="https://www.premierhotels.co.za/premier-hotel-invests-in-new-and-improves-current-properties/"><img src="https://www.premierhotels.co.za/wp-content/uploads/2015/03/Premier-Guest-Info-Folder-1-150x150.jpg" alt="Premier Hotel invests in new and improves current properties" class="img-responsive"></a>
+                              </div>
+              <div class="col-md-9 col-sm-9 col-xs-9">
+                <h4><a href="https://www.premierhotels.co.za/premier-hotel-invests-in-new-and-improves-current-properties/">
+                  Premier Hotel invests in new and improves current properties                  </a></h4>
+                <p>Premier Hotels and Resorts has recently invested over R470m to build and renovate various properties across South Africa. Over the past two years, we have invested over R300m to improve hotel standards and facilities across our portfolio.</p>              </div></div>
+              <div class="row">
+              <div class="col-md-3 col-sm-3 col-xs-3">
+                               <a href="https://www.premierhotels.co.za/the-growth-of-african-hotel-groups/"><img src="https://www.premierhotels.co.za/wp-content/uploads/2015/03/Premier-Guest-Info-Folder-1-150x150.jpg" alt="The Growth of African Hotel Groups" class="img-responsive"></a>
+                              </div>
+              <div class="col-md-9 col-sm-9 col-xs-9">
+                <h4><a href="https://www.premierhotels.co.za/the-growth-of-african-hotel-groups/">
+                  The Growth of African Hotel Groups                  </a></h4>
+                <p>Although it has been a trying time financially for big economies in Africa, hotel groups continue to place their bets and see their return on investment. See how Premier Hotel is making big strides in the hospitality industry.</p>              </div></div>
+                          
+          </div>
+        </div>
+        <div class="row">
+                              <div class="col-md-4  col-sm-12 col-xs-12 home-featured">
+            <h3>
+              Our Hotels            </h3>
+            <div class="ftr-content">
+            <p><a href="https://www.premierhotels.co.za/hotels/"><img class="alignleft size-full wp-image-12812" src="https://www.premierhotels.co.za/wp-content/uploads/2018/07/ph_elicc_pool_2000.jpg" alt="" width="2000" height="1068" srcset="https://www.premierhotels.co.za/wp-content/uploads/2018/07/ph_elicc_pool_2000.jpg 2000w, https://www.premierhotels.co.za/wp-content/uploads/2018/07/ph_elicc_pool_2000-300x160.jpg 300w, https://www.premierhotels.co.za/wp-content/uploads/2018/07/ph_elicc_pool_2000-768x410.jpg 768w, https://www.premierhotels.co.za/wp-content/uploads/2018/07/ph_elicc_pool_2000-750x401.jpg 750w" sizes="(max-width: 2000px) 100vw, 2000px" /></a>Find your perfect business or leisure destination at one of our hotels and resorts in South Africa. <a title="Our Hotels" href="https://www.premierhotels.co.za/hotels/">View Now</a></p>
+            </div>
+          </div>
+                              <div class="col-md-4  col-sm-6 col-xs-12 home-featured">
+            <h3>
+              Premier Rewards            </h3>
+            <div class="ftr-content">
+            <p><a href="https://www.premierhotels.co.za/royalty-rewards/" rel="https://www.premierhotels.co.za/royalty-rewards/"><img class="alignleft wp-image-13510 size-full" src="https://www.premierhotels.co.za/wp-content/uploads/2019/05/premier_royalty_2000x1068.jpg" alt="" width="2000" height="1068" srcset="https://www.premierhotels.co.za/wp-content/uploads/2019/05/premier_royalty_2000x1068.jpg 2000w, https://www.premierhotels.co.za/wp-content/uploads/2019/05/premier_royalty_2000x1068-300x160.jpg 300w, https://www.premierhotels.co.za/wp-content/uploads/2019/05/premier_royalty_2000x1068-768x410.jpg 768w, https://www.premierhotels.co.za/wp-content/uploads/2019/05/premier_royalty_2000x1068-750x401.jpg 750w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></p>
+<p>Members enjoy great discounts on accommodation, exclusive special offers and a whole lot more. <a title="Royalty" href="https://www.premierhotels.co.za/royalty-club/">Join Now</a></p>
+            </div>
+          </div>
+                              <div class="col-md-4  col-sm-6 col-xs-12 home-featured">
+            <h3>
+              Specials            </h3>
+            <div class="ftr-content">
+            <p><a href="https://www.premierhotels.co.za/specials/"><img class="wp-image-7671 size-full alignnone" title="Premier Hotels Specials" src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/ethnic_family_2000x1068.jpg" alt="" width="2000" height="1068" srcset="https://www.premierhotels.co.za/wp-content/uploads/2015/02/ethnic_family_2000x1068.jpg 2000w, https://www.premierhotels.co.za/wp-content/uploads/2015/02/ethnic_family_2000x1068-300x160.jpg 300w, https://www.premierhotels.co.za/wp-content/uploads/2015/02/ethnic_family_2000x1068-768x410.jpg 768w, https://www.premierhotels.co.za/wp-content/uploads/2015/02/ethnic_family_2000x1068-750x401.jpg 750w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></p>
+<p>Keep visiting for incredible specials and great offers on accommodation &amp; function venues across SA. <a title="Royalty Club" href="https://www.premierhotels.co.za/specials/">View Now</a></p>
+            </div>
+          </div>
+                                        <!-- Homepage Child Pages End --> 
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+<div class="footer">
+  <div class="container-fluid">
+    <div class="row footer-contact">
+      <div class="col-md-12 text-center" style="padding:0">
+        <div style="padding:0px; color:#fff; background-color:#B5985A; padding:15px">RESERVATIONS <a href="tel:+27861115555" onclick="_gaq.push(['_trackEvent', 'Contact', 'Call Now Button', 'Phone']);"  id="callnowbutton">&nbsp;</a><span>086 111 5555 | +27 (0)43 705 5000</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="sidebar-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2 col-sm-12 col-xs-12">
+                    <a class="navbar-brand" href="https://www.premierhotels.co.za/"><img src="https://www.premierhotels.co.za/wp-content/uploads/2015/02/logo_premier-hotels1.png" class="img-responsive" alt="Premier Hotels"></a> </div>
+        <div class="col-md-10 col-sm-12 col-xs-12">
+          <div id="sidebar">
+
+      <div id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Connect</h2><div class="menu-connect-container"><ul id="menu-connect" class="menu"><li id="menu-item-4" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4"><a title="Facebook" href="https://www.facebook.com/premierhotels"><i class="fa fa-facebook"></i> Facebook</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52"><a href="https://twitter.com/premier_hotels"><i class="fa fa-twitter"></i> Twitter</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85"><a href="https://za.linkedin.com/company/premier-hotels-&#038;-resorts"><i class="fa fa-linkedin"></i> Linkedin</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86"><a href="http://www.tripadvisor.co.za/Search?q=premier+hotels&#038;geo=293740&#038;pid=3825&#038;typeaheadRedirect=true&#038;startTime=1434019627816&#038;uiOrigin=MASTHEAD&#038;returnTo=http%253A__2F____2F__www__2E__tripadvisor__2E__co__2E__za__2F__"><i class="fa fa-comments"></i> TripAdvisor</a></li>
+</ul></div></div><div id="nav_menu-4" class="widget widget_nav_menu"><h2 class="widget-title">About Premier</h2><div class="menu-about-premier-hotels-container"><ul id="menu-about-premier-hotels" class="menu"><li id="menu-item-263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="https://www.premierhotels.co.za/about-us/">About Us</a></li>
+<li id="menu-item-1301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1301"><a href="https://www.premierhotels.co.za/vision-and-mission/">Vision &#038; Mission</a></li>
+<li id="menu-item-1299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1299"><a href="https://www.premierhotels.co.za/royalty-rewards/">Premier Rewards</a></li>
+<li id="menu-item-1297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1297"><a href="https://www.premierhotels.co.za/hotels/">Our Hotels</a></li>
+<li id="menu-item-1298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1298"><a href="https://www.premierhotels.co.za/management-team/">Management Team</a></li>
+<li id="menu-item-9102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9102"><a href="https://www.premierhotels.co.za/hotel-management-company/">Hotel Management Company</a></li>
+</ul></div></div><div id="nav_menu-6" class="widget widget_nav_menu"><h2 class="widget-title">More Info</h2><div class="menu-more-info-container"><ul id="menu-more-info" class="menu"><li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="https://www.premierhotels.co.za/hotels/">Our Hotels</a></li>
+<li id="menu-item-5866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5866"><a href="https://www.premierhotels.co.za/careers/">Careers</a></li>
+<li id="menu-item-4902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4902"><a href="https://www.premierhotels.co.za/sitemap/">User Sitemap</a></li>
+<li id="menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1257"><a href="https://www.premierhotels.co.za/access-to-information/">Access to Information</a></li>
+<li id="menu-item-10966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10966"><a href="https://www.premierhotels.co.za/fact-sheets/">Fact Sheets</a></li>
+<li id="menu-item-4297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4297"><a href="https://www.premierhotels.co.za/terms-conditions/">Terms &#038; Conditions</a></li>
+</ul></div></div><div id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widget-title">Contact</h2><div class="menu-contact-us-today-container"><ul id="menu-contact-us-today" class="menu"><li id="menu-item-1515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1515"><a>Central Reservations:</a></li>
+<li id="menu-item-1516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1516"><a>086 111 5555</a></li>
+<li id="menu-item-1517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1517"><a href="mailto:info@premierhotels.co.za">info@premierhotels.co.za</a></li>
+</ul></div></div><div id="text-3" class="widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+		</div>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="notice-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6 col-xs-12 pull-right"></div>
+        <div class="col-md-6 notice">
+          <p>&copy; Premier Hotels &amp; Resorts 2019</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+<script>window.jQuery || document.write('<script src="https://www.premierhotels.co.za/wp-content/themes/premierhotels/js/vendor/jquery-1.11.2.min.js"><\/script>')</script> 
+<script src="https://www.premierhotels.co.za/wp-content/themes/premierhotels/js/vendor/bootstrap.min.js"></script> 
+<script src="https://www.premierhotels.co.za/wp-content/themes/premierhotels/js/main.js"></script> 
+<script src="https://www.premierhotels.co.za/wp-content/themes/premierhotels/js/jquery-ui.min.js"></script> 
+
+<!-- Script to Activate the Carousel --> 
+<script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script> 
+<script>$(function(){
+    var fadeBegin = 0, 
+    fadeFinish = 500, 
+    fadingElement = $('.carousel-caption, .carousel-control');
+    $(window).bind('scroll', function(){
+       var offset = $(document).scrollTop(), opacity = 0; 
+        if( offset <= fadeBegin ){
+           opacity = 1; 
+       } else if( offset <= fadeFinish ){
+           opacity = 1 - offset / fadeFinish;
+       }
+     fadingElement.css('opacity',opacity);
+    });});</script> 
+<script>
+$(function() {
+	
+$( "#dateFrom" ).datepicker({ dateFormat: 'dd M yy' });
+$( "#dateTo" ).datepicker({ dateFormat: 'dd M yy' });
+$( "#dateFrom" ).change(function() {
+	$( "#dateTo" ).val($( "#dateFrom" ).val());
+	var date2 = $('#dateFrom').datepicker('getDate', '+1d');
+	date2.setDate(date2.getDate()+1);$('#dateTo').datepicker('setDate', date2);})
+	;});
+function days() {
+	var a = $("#dateFrom").datepicker('getDate').getTime(),
+	b = $("#dateTo").datepicker('getDate').getTime(),
+	c = 24*60*60*1000,diffDays = Math.round(Math.abs((a - b)/(c)));
+console.log(diffDays); //show difference
+}
+jQuery("#makeBooking").click(function () {
+var url = "https://apps.hti-systems.com/premierhotels/premierhotels/#SearchResult:";
+var a = $("#dateFrom").datepicker('getDate').getTime(),
+b = $("#dateTo").datepicker('getDate').getTime(),
+c = 24*60*60*1000,
+diffDays = Math.round(Math.abs((a - b)/(c)));
+url += "ArrDate=" + jQuery("#dateFrom").val();
+url += ",Nts=" + diffDays;
+url += ",Adults_0=" + (jQuery("#numberAdults").val() == null ? 1 : jQuery("#numberAdults").val());
+if (jQuery("#numberKids").val() > 0) {
+	url += ",Kids_0=" + (jQuery("#numberKids").val() == null ? 0 : jQuery("#numberKids").val());
+	}
+
+  i = 0;
+  while (i < jQuery("#numberKids").val()) {
+    url += ",Age_0=18";
+    i++;
+}
+
+	url += ",HotelName=" + jQuery("#hotelName").val();
+	window.open(url, '_blank');
+	});		
+</script> 
+<!-- Google Tag Manager -->
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-P3FGXW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P3FGXW');</script> 
+<!-- End Google Tag Manager -->
+<!-- Google Code for Remarketing Tag -->
+<!--
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 925304995;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/925304995/?value=0&guid=ON&script=0"/>
+</div>
+</noscript><script type='text/javascript'>
+/* <![CDATA[ */
+var frontend_ajax_object = {"ajax_url":"https:\/\/www.premierhotels.co.za\/wp-admin\/admin-ajax.php","ajax_nonce":"293b58c7f5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-content/plugins/accesspress-social-share/js/frontend.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.premierhotels.co.za\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-content/themes/premierhotels/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-includes/js/comment-reply.min.js?ver=d70298c7e07f310b3d1f09deaf6c9131'></script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-content/themes/premierhotels/js/functions.js?ver=20141212'></script>
+<script type='text/javascript' src='https://www.premierhotels.co.za/wp-includes/js/wp-embed.min.js?ver=d70298c7e07f310b3d1f09deaf6c9131'></script>
+</body></html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.premierhotels.co.za @ 2019-05-21 05:32:26 by W3 Total Cache
+-->
