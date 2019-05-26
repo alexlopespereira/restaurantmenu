@@ -1,12 +1,15 @@
 # restaurantmenu
 
 Passo 1:
+
 gt clone https://github.com/tzutalin/labelImg.git
 
 Passo 2:
+
 cd labelImg
 
 Passo 3:
+
 docker run -it \
 --user $(id -u) \
 -e DISPLAY=unix$DISPLAY \
@@ -20,4 +23,5 @@ docker run -it \
 tzutalin/py2qt4
 
 Passo 4:
+
 make qt4py2;./labelImg.py
