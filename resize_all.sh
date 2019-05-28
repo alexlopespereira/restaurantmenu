@@ -1,5 +1,6 @@
 #!/bin/bash
-
+##exemplo de uso
+## ./resize_all.sh 320 533 ./experimento_1f ./experimento_1f/resized
 target_w=$1
 target_h=$2
 inputdir=$3
