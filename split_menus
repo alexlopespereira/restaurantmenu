@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+declare -r refdir="$1"          # Reference directory
+declare -r indir="$2"           # Input directory
+declare -r outdir="$3"          # Output directory
+
+for f in "${refdir}"/*; do
+    [[ -e "${f}" ]] || continue
+    base="$(basename "${f%.jpg}.png")"
+    mv -i -t "${outdir}" "${indir}/${base}"
+done

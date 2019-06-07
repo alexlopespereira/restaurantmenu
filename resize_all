@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 ##exemplo de uso
 ## ./resize_all.sh 320 533 ./experimento_1f ./experimento_1f/resized
+
+shopt -s extglob
+if [[ "$1" == @(--png|--jpg) ]]; then
+    formato="$1"
+    shift
+fi
+declare -r formato
+
 target_w="$1"
 target_h="$2"
 inputdir="$3"
@@ -9,6 +17,7 @@ outputdir="$4"
 for filename in "${inputdir}"/*; do
     [[ -e "${filename}" ]] || continue
     echo "Converting ${filename}" >&2
-    ./resize_image.sh "${target_w}" "${target_h}" "${filename}" "${outputdir}"
+    ./resize_image "${formato-}" "${target_w}" "${target_h}" \
+                   "${filename}" "${outputdir}"
 done
 

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resized</folder>
-	<filename>00000100.jpg</filename>
-	<path>/home/alex/PycharmProjects/restaurantmenu/experimento_1f/resized/00000100.jpg</path>
+	<filename>00000100.png</filename>
+	<path>/home/jorge/repos/restaurantmenu/experimento_1f/resized/00000100.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -270,9 +270,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>165</xmin>
-			<ymin>397</ymin>
+			<ymin>402</ymin>
 			<xmax>315</xmax>
-			<ymax>426</ymax>
+			<ymax>431</ymax>
 		</bndbox>
 	</object>
 </annotation>

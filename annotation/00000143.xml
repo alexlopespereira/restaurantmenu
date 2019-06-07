@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resized</folder>
-	<filename>00000143.jpg</filename>
-	<path>/home/alex/PycharmProjects/restaurantmenu/experimento_1f/resized/00000143.jpg</path>
+	<filename>00000143.png</filename>
+	<path>/home/jorge/repos/restaurantmenu/experimento_1f/resized/00000143.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -125,7 +125,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
+			<xmin>38</xmin>
 			<ymin>412</ymin>
 			<xmax>141</xmax>
 			<ymax>428</ymax>
@@ -161,7 +161,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>165</xmin>
+			<xmin>167</xmin>
 			<ymin>409</ymin>
 			<xmax>280</xmax>
 			<ymax>428</ymax>
@@ -173,7 +173,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>166</xmin>
+			<xmin>167</xmin>
 			<ymin>432</ymin>
 			<xmax>281</xmax>
 			<ymax>446</ymax>
@@ -270,9 +270,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>158</xmin>
-			<ymin>334</ymin>
+			<ymin>335</ymin>
 			<xmax>294</xmax>
-			<ymax>353</ymax>
+			<ymax>354</ymax>
 		</bndbox>
 	</object>
 </annotation>

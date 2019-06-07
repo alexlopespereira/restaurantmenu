@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resized</folder>
-	<filename>00000078.jpg</filename>
-	<path>/home/alex/PycharmProjects/restaurantmenu/experimento_1f/resized/00000078.jpg</path>
+	<filename>00000078.png</filename>
+	<path>/home/jorge/repos/restaurantmenu/experimento_1f/resized/00000078.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -20,7 +20,7 @@
 			<xmin>205</xmin>
 			<ymin>170</ymin>
 			<xmax>277</xmax>
-			<ymax>194</ymax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>201</xmin>
-			<ymin>193</ymin>
+			<xmin>205</xmin>
+			<ymin>195</ymin>
 			<xmax>277</xmax>
-			<ymax>220</ymax>
+			<ymax>216</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>198</xmin>
+			<xmin>202</xmin>
 			<ymin>258</ymin>
-			<xmax>286</xmax>
-			<ymax>280</ymax>
+			<xmax>281</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -56,7 +56,7 @@
 			<xmin>202</xmin>
 			<ymin>281</ymin>
 			<xmax>281</xmax>
-			<ymax>303</ymax>
+			<ymax>305</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,8 +65,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>187</xmin>
-			<ymin>342</ymin>
+			<xmin>202</xmin>
+			<ymin>346</ymin>
 			<xmax>282</xmax>
 			<ymax>367</ymax>
 		</bndbox>
@@ -77,7 +77,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>201</xmin>
+			<xmin>202</xmin>
 			<ymin>367</ymin>
 			<xmax>282</xmax>
 			<ymax>391</ymax>

@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+shopt -s extglob
+if [[ "$1" == @(--png|--jpg) ]]; then
+    formato="${1#--}"
+    shift
+fi
+declare -r formato
+
 target_w="$1"
 target_h="$2"
 inputfile="$3"
@@ -10,7 +17,12 @@ echo Ratio: $(( 100*target_w/w ))% >&2
 new_h=$(( target_w*h/w ))
 echo new_h: ${new_h} >&2
 filename="$(basename "${inputfile}")"
+declare -a q=(-quality 95)
+if [[ -v formato ]]; then
+    filename="${filename%.*}.${formato}"
+    [[ "${formato}" == png ]] && q=()
+fi
 path="${outputdir}/${filename}"
 convert "${inputfile}" -resize "${target_w}"x"${new_h}" -gravity center  \
         -background "rgb(255,0,255)" -extent "${target_w}"x"${target_h}" \
-        "${path}"
+        "${q[@]}" "${path}"
