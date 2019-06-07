@@ -25,3 +25,10 @@ tzutalin/py2qt4
 Passo 4:
 
 make qt4py2;./labelImg.py
+
+## Afazeres
+
+- [ ] Revisar as imagens 231 e 253:
+  - 231: no centro há quatro opções de molho, e no rodapé do menu há opções de
+    adicional
+  - 253: ver os buffets
