@@ -1,23 +1,25 @@
 #!/usr/bin/env bash
-##exemplo de uso
+## usage example:
 ## ./resize_all.sh 320 533 ./experimento_1f ./experimento_1f/resized
+#
+# This script calls resize_image, and therefore the output image format can be
+# chosen via the `IMAGE_FORMAT` environment variable, which should be an image
+# file extension (without the leading dot) supported by ImageMagick.  If
+# `IMAGE_FORMAT` is unset then keep the current image format of each file.
+#
+# Beware: `resize_image` uses ImageMagick's convert, which silently overwrites
+# existing files.  `resize_image` does check the existence of the output file
+# before calling `convert`, but this is a race condition.
 
-shopt -s extglob
-if [[ "$1" == @(--png|--jpg) ]]; then
-    formato="$1"
-    shift
-fi
-declare -r formato
+set -o nounset
 
-target_w="$1"
-target_h="$2"
-inputdir="$3"
-outputdir="$4"
+declare -ir W="$1"              # Target width
+declare -ir H="$2"              # Target height
+declare -r INDIR="$3"           # Input directory
+declare -r OUTDIR="$4"          # Output directory
 
-for filename in "${inputdir}"/*; do
-    [[ -e "${filename}" ]] || continue
-    echo "Converting ${filename}" >&2
-    ./resize_image "${formato-}" "${target_w}" "${target_h}" \
-                   "${filename}" "${outputdir}"
+for F in "${INDIR}"/*; do
+    [[ -f "${F}" ]] || continue
+    echo "Converting ${F}" >&2
+    ./resize_image "${W}" "${H}" "${F}" "${OUTDIR}"
 done
-

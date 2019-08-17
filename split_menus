@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
+set -o nounset
 
-declare -r refdir="$1"          # Reference directory
-declare -r indir="$2"           # Input directory
-declare -r outdir="$3"          # Output directory
+declare -r REFDIR="$1"          # Reference directory
+declare -r INDIR="$2"           # Input directory
+declare -r OUTDIR="$3"          # Output directory
 
-for f in "${refdir}"/*; do
-    [[ -e "${f}" ]] || continue
-    base="$(basename "${f%.jpg}.png")"
-    mv -i -t "${outdir}" "${indir}/${base}"
-done
+for F in "${REFDIR}"/*; do
+    [[ -f "${F}" ]] && printf "%s\\0" "${INDIR}/$(basename "${F%.jpg}.png")"
+done | xargs --null git mv -i -t "${OUTDIR}"

@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# Fix file extensions and move non-images to the nao_imagem sub directory
+#
+# Classifies GIF, PNG, JPEG and WebP as images; everything else is considered
+# non-image.  All files acted upon lose their extension; recognized images and
+# recognized text (HTML, XML and plain text) then get a new, type-appropriate
+# extension.  Acts in the current working directory, by default on the files
+# with ".jpg" extension – this default can be overridden with the `OLD_EXT`
+# environment variable.  All renaming is done with `git mv`.
+set -o nounset
+shopt -s extglob
+
+declare -r OLD_EXT="${OLD_EXT-.jpg}"
+for F in *"${OLD_EXT}"; do
+    [[ -f "${F}" ]] || continue
+    MIME="$(file --brief --mime-type "${F}")"
+    SUBTYPE="${MIME#*/}"
+    case "${MIME}" in
+        image/@(gif|png|jpeg|webp)) NEW=".${SUBTYPE/#jpeg/jpg}" ;;
+        text/@(html|xml|plain)) NEW=".${SUBTYPE/#plain/txt}" ;&
+        *) DEST=nao_imagem ;;
+    esac
+    NEW_F="${DEST+${DEST}/}${F/%${OLD_EXT}/${NEW-}}"
+    [[ "${F}" != "${NEW_F}" ]] && git mv -v "${F}" "${NEW_F}"
+done

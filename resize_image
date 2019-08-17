@@ -1,28 +1,34 @@
 #!/usr/bin/env bash
+# Beware: `resize_image` uses ImageMagick's `convert`, which silently overwrites
+# existing files.  This script checks the existence of the output file before
+# calling `convert`, but this is a race condition.
 
-shopt -s extglob
-if [[ "$1" == @(--png|--jpg) ]]; then
-    formato="${1#--}"
-    shift
-fi
-declare -r formato
+# The output image format can be chosen via the `IMAGE_FORMAT` environment
+# variable, which should be an image file extension (without the leading dot)
+# supported by ImageMagick.  If `IMAGE_FORMAT` is unset then keep the current
+# image format.
+set -o nounset
 
-target_w="$1"
-target_h="$2"
-inputfile="$3"
-outputdir="$4"
-w=$(convert "${inputfile}" -print "%w" /dev/null)
-h=$(convert "${inputfile}" -print "%h" /dev/null)
-echo Ratio: $(( 100*target_w/w ))% >&2
-new_h=$(( target_w*h/w ))
-echo new_h: ${new_h} >&2
-filename="$(basename "${inputfile}")"
-declare -a q=(-quality 95)
-if [[ -v formato ]]; then
-    filename="${filename%.*}.${formato}"
-    [[ "${formato}" == png ]] && q=()
+declare -r IMAGE_FORMAT
+
+declare -ir TARGET_W="$1"
+declare -ir TARGET_H="$2"
+declare -r INFILE="$3"
+declare -r OUTDIR="$4"
+IFS=" " read -r -a ORIG <<< "$(convert "${INFILE}" -print "%w %h" /dev/null)"
+declare -air ORIG
+echo Ratio: $(( 100*TARGET_W/ORIG[0] ))% >&2
+declare -ir NEW_H=$(( TARGET_W*ORIG[1]/ORIG[0] ))
+echo NEW_H: ${NEW_H} >&2
+OUTFILE="$(basename "${INFILE}")"
+declare -a Q=(-quality 95)
+if [[ -v IMAGE_FORMAT ]]; then
+    OUT="${OUTDIR}/${OUTFILE%.*}.${IMAGE_FORMAT}"
+    [[ "${IMAGE_FORMAT}" == png ]] && Q=()
 fi
-path="${outputdir}/${filename}"
-convert "${inputfile}" -resize "${target_w}"x"${new_h}" -gravity center  \
-        -background "rgb(255,0,255)" -extent "${target_w}"x"${target_h}" \
-        "${q[@]}" "${path}"
+if [[ -e "${OUT}" ]]; then
+    echo "${OUT} already exists"
+    exit 1
+fi
+convert "${INFILE}" "${Q[@]}" -resize "${TARGET_W}x${NEW_H}" -gravity center \
+        -background "rgb(255,0,255)" -extent "${TARGET_W}x${TARGET_H}" "${OUT}"

@@ -2,7 +2,7 @@
 
 Passo 1:
 
-gt clone https://github.com/tzutalin/labelImg.git
+git clone https://github.com/tzutalin/labelImg.git
 
 Passo 2:
 
